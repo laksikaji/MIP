@@ -1,0 +1,18 @@
+# Ignore all files by default
+*
+
+# But keep these specific files
+!mip.py
+!dcs.csv
+!demand.csv
+!matrix.csv
+!.gitignore
+!README.md
+
+# Ignore output files
+*.txt
+comparison_summary.csv
+basic_mip_assignments.csv
+fthr_mip_assignments.csv
+dc_summary.csv
+full_report.txt
